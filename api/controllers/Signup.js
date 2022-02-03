@@ -1,3 +1,3 @@
 function msg(){  
- log("This is signup controller demo");  
+ log("This is signup controller");  
 }  
